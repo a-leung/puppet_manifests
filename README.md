@@ -39,3 +39,8 @@ More [details here](http://redgreenrepeat.com/2017/09/01/puppet-manifests-and-di
 
 Please [contact me](http://redgreenrepeat.com/contact) with any
 questions or comments. I would love to hear from you.
+
+# License
+
+LGPL except for works in `/modules` directory, which have their own
+respective licenses.
